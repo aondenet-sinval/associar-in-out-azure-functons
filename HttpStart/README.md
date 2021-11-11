@@ -1,0 +1,1 @@
+#Desenvolvimento local de função Azure para treinamento.
